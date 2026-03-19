@@ -1,0 +1,5 @@
+t=(1,1,2,2,4,33,4,5,)
+print(len(t))
+print(max(t))
+print((sum(t)))
+print((min(t)))
