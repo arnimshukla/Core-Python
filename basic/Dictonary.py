@@ -1,0 +1,16 @@
+d={'name':'shukla','age':'12','no':'98765'}
+# print(d.get('age'))
+# print(d.keys())
+# print(d.values())
+# print(d.items())
+# d1=d.copy()
+# print(d.pop('age'))
+# print(d,d1)
+# print(d.popitem())
+# print(d)
+
+d.update ({'name':'hari'})
+print(d)
+print(d.setdefault('nam','harsh'))
+print(d)
+print(len(d))
